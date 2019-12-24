@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="knowledge-web-api:war">
+    <output-path>$PROJECT_DIR$/knowledge-web-api/target</output-path>
+    <root id="archive" name="knowledge-web-api-v1.0.0.war">
+      <element id="artifact" artifact-name="knowledge-web-api:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="knowledge-dao" />
+        <module name="knowledge-dependencies (1)" />
+        <module name="knowledge-service" />
+        <module name="knowledge-web-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="knowledge" target="1.5" />
+      <module name="knowledge-dao" target="1.5" />
+      <module name="knowledge-dependencies" target="1.5" />
+      <module name="knowledge-dependencies (1)" target="1.5" />
+      <module name="knowledge-service" target="1.5" />
+      <module name="knowledge-web-api" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
